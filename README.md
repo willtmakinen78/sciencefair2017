@@ -1,5 +1,5 @@
 # Science Fair 2017
-Listed in this repository are some of the files used for the development of my Junior year science fair project, in which I characterized the an FDM 3D printing process in real time.
+Listed in this repository are some of the files used for the development of my highschool Junior year science fair project, in which I characterized the an FDM 3D printing process in real time.
 
 This project was an extension of the work started the previous summer at the NASA Langely Research Center with Dr. Godfrey Sauti. The goal was to add sensors to an FDM 3D printer to detect errors in real time, allowing the print to either be stopped or correcting for them and continuing the print. More details can be seen in the `Poster.pdf` file, however a brief rundown of each sensor/error detection system is provided below:
 
